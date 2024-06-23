@@ -11,7 +11,7 @@ I am a passionate B.Tech CSE student, driven by a curiosity for technology. I al
 
 # 📊 GitHub Stats:
 ![navyakaushik's Stats](https://github-readme-stats.vercel.app/api?username=navyakaushik&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)<br/>
-![navyakaushik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=navyakaushik&theme=vue-dark&hide_border=true)
+![navyakaushik's Streak](https://github-readme-streak-stats.herokuapp.com/?user=navyakaushik&theme=vue-dark&hide_border=true)<br/>
 ![navyakaushik's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navyakaushik&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 
